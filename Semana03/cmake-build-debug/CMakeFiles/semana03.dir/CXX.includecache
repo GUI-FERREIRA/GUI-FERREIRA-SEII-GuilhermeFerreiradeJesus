@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/gf154/OneDrive/Documentos/semana03/complexo.cpp
+sstream
+-
+math.h
+-
+complexo.h
+C:/Users/gf154/OneDrive/Documentos/semana03/complexo.h
+
+C:/Users/gf154/OneDrive/Documentos/semana03/complexo.h
+string
+-
+
+C:/Users/gf154/OneDrive/Documentos/semana03/main.cpp
+iostream
+-
+complexo.h
+C:/Users/gf154/OneDrive/Documentos/semana03/complexo.h
+
