@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+# notepad.py
 # importing required libraries
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
